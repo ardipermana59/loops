@@ -42,7 +42,7 @@ kemudian salin kode dari mulai inisialisasi “git init” sampai “git push”
   
 ### Kapan anda menggunakan Git Branch dan bagaimana format penamaanya ?  
 saat ingin membuat fitur baru atau versi baru
-format penamaan menyamakan dengan nama fitur  
+format penamaan menyamakan dengan nama fitur atau versi
 
 <br>
 
